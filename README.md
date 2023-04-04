@@ -1,3 +1,4 @@
-#Site-bijoux-virginie en developpement pour le start veuillez le lancer via f5 sur visual studio code et ouvrir le dossier entier 
+#Site-vitrine de bijoux
 
+Il y a un début de formulaire en php mais il n'est pas encore fonctionnel une update arrivera bientot
 - le dossier inscription.php n'est pas fait 
